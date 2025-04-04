@@ -1,2 +1,0 @@
-# MYD
-first repo
